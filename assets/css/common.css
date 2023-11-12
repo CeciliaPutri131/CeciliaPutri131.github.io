@@ -12,6 +12,11 @@
   --ungu-3: #ba44cf;
   --ungu-4: #8b209e;
   --ungu-5: #660d75;
+  --blue-1: #EFE1D1;
+  --blue-2: #D4ADFC;
+  --blue-3: #5C469C;
+  --blue-4: #1D267D;
+  --blue-5: #0C134F;
 }
 #category-modal-bg {
   position: fixed;
@@ -30,7 +35,7 @@
   border-radius: 1rem;
   padding: 1rem;
   margin: auto;
-  background: var(--gray-2);
+  background: var(--blue-2);
   display: none;
   visibility: hidden;
   line-height: 140%;
@@ -64,5 +69,5 @@
   font-size: 0.8rem;
 }
 .modal-article:hover {
-  background: var(--gray-3);
+  background: var(--blue-3);
 }
