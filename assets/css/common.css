@@ -30,7 +30,7 @@
   border-radius: 1rem;
   padding: 1rem;
   margin: auto;
-  background: var(--ungu-2);
+  background: var(--gray-2);
   display: none;
   visibility: hidden;
   line-height: 140%;
@@ -64,5 +64,5 @@
   font-size: 0.8rem;
 }
 .modal-article:hover {
-  background: var(--ungu-3);
+  background: var(--gray-3);
 }
