@@ -402,3 +402,7 @@ Interpreter adalah jenis translator yang membaca dan mengeksekusi kode sumber ba
 Linker bertugas untuk menggabungkan berbagai library external dengan object file untuk menghasilkan sebuah program.
 
 <span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/linker[1].jpg)</span>
+
+Sekian rangkuman materi Arsikom, apabila ada kritik dan saran silahkan berikan di kolom komentar.☺️
+
+<span style="display:block;text-align:center">![alt](https://ceciliaputri131.github.io/assets/img/memeresume[1].jpg)</span>
