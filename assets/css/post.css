@@ -30,10 +30,10 @@
 html,
 body {
   color: var(--white-2);
-  background-color: var(--ungu-5);
+  background-color: var(--gray-5);
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
-  background-color: var(--ungu-4);
+  background-color: var(--gray-4);
 }
 .content a {
   color: white;
@@ -83,7 +83,7 @@ nav {
 .categories .category {
   margin: 0 0.5rem 0 0;
   display: block;
-  color: var(--ungu-3);
+  color: var(--gray-3);
   background: white;
   border-radius: 15px;
   font-size: 0.7rem;
@@ -157,12 +157,12 @@ nav {
   border-collapse: collapse;
 }
 .content table th {
-  background-color: var(--ungu-2);
+  background-color: var(--gray-2);
   color: white;
-  border: 1px solid var(--ungu-4);
+  border: 1px solid var(--gray-4);
 }
 .content table * {
-  border: 1px solid var(--ungu-2);
+  border: 1px solid var(--gray-2);
   padding: 0.2rem;
 }
 .content img {
@@ -179,7 +179,7 @@ nav {
 }
 
 .content pre {
-  background: var(--ungu-2) !important;
+  background: var(--gray-2) !important;
   padding: 1rem 2rem;
   margin-bottom: 1.75rem;
 }
@@ -188,7 +188,7 @@ nav {
   padding: 3px 5px;
   color: white;
   white-space: pre;
-  background-color: var(--ungu-2);
+  background-color: var(--gray-2);
 }
 
 /* lbox */
